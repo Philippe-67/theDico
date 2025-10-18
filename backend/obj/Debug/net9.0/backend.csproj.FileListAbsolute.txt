@@ -39,3 +39,13 @@ C:\Users\A114SR\mon-projet-dico\backend\obj\Debug\net9.0\ref\backend.dll
 C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\A114SR\mon-projet-dico\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\A114SR\mon-projet-dico\backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
