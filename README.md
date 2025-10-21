@@ -1,30 +1,17 @@
 # mon-projet-dico
 
-Mono-repo simple contenant :
-- backend .NET 9 (API minimal) — dossier `backend`
-- frontend React + Vite — dossier `frontend`
+Ce dépôt est totalement vierge et prêt à accueillir un nouveau projet.
 
-Prérequis
-- .NET 9 SDK
-- Node.js (18+) et npm
+## Structure actuelle
+- `.github/` : documentation, conventions, instructions
+- `.vscode/` : configuration éditeur (optionnel)
+- `README.md` : ce fichier
+- `mon-projet-dico.sln` : solution Visual Studio (vide ou à initialiser)
 
-Lancer le backend
-1. Ouvrir un terminal
-2. cd C:\Users\A114SR\mon-projet-dico\backend
-3. dotnet run
+## Pour démarrer
+1. Créez un dossier `backend/` pour votre API (ex : .NET, Node, etc.)
+2. Créez un dossier `frontend/` pour votre client (ex : React, Angular, etc.)
+3. Mettez à jour la documentation dans `.github/` à chaque étape
 
-Endpoint principal
-- GET /weatherforecast (défini dans `backend/Program.cs`)
-
-Lancer le frontend
-1. Ouvrir un terminal
-2. cd C:\Users\A114SR\mon-projet-dico\frontend
-3. npm install
-4. npm run dev
-
-Build
-- Backend : dotnet build backend
-- Frontend : cd frontend && npm run build
-
-Notes
-- Le frontend contient aussi un README dans `frontend/README.md`.
+---
+*Ce dépôt est prêt pour une initialisation propre de votre application.*
